@@ -40,7 +40,7 @@ This method will do four things:
 
 2. From here, we will create a new song instance using the string we gathered from the filename.
 
-3. We'll also want to associate that new song with an artist. To do this we'll use a helper method: `Song#artist=(artist_name)`.
+3. We'll also want to associate that new song with an artist. To do this we'll use a helper method: `Song#artist_name)=(name)`.
 
 4. Return the new song instance. 
 
